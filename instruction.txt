@@ -1,0 +1,7 @@
+Buatlah calcultor yang tediri dari beberapa fitur : 
+1. penjumlahan 
+2. pengurangan
+3. perkalian
+4. pembagian
+
+Buat ditur dalam bentuk function di dalam file calculator.py
