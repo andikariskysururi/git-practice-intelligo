@@ -1,10 +1,13 @@
-print("CALCULTOR")
+print("CALCULATOR")
+def pengurangan(x,y):
+    return x - y
+                 
 def pembagian (x,y):
     return x/y
 
 def penjumlahan(x,y):
     return x+y
     
-def multiplication(x, y):
+def perkalian(x, y):
     return x * y
 
