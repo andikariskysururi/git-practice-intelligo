@@ -1,12 +1,13 @@
 print("CALCULATOR")
 def pengurangan(x,y):
-    x = int(input("masukkan angka = "))
-    y = int(input("masukkan angka = "))
-
     return x - y
                  
-print("CALCULTOR")
- 
-def multiplication(x, y):
+def pembagian (x,y):
+    return x/y
+
+def penjumlahan(x,y):
+    return x+y
+    
+def perkalian(x, y):
     return x * y
 
