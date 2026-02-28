@@ -5,3 +5,8 @@ def pengurangan(x,y):
 
     return x - y
                  
+print("CALCULTOR")
+ 
+def multiplication(x, y):
+    return x * y
+
